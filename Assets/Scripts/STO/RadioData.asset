@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00e56eda972506242b0e0499db7837b9, type: 3}
+  m_Name: RadioData
+  m_EditorClassIdentifier: 
+  albumList:
+  - albumName: INTERNATIONAL
+    songList:
+    - songName: Drinkin
+      author: None
+      songClip: {fileID: 8300000, guid: 1200c105912e28040b27dd01a37bfd05, type: 3}
+    - songName: "\u60AC\u6EBA"
+      author: None
+      songClip: {fileID: 8300000, guid: 2c3372adb91901345a9b3e6f6673e0b7, type: 3}
+    - songName: "\u6D6E\u5149 - \u7EAF\u97F3\u4E50"
+      author: None
+      songClip: {fileID: 8300000, guid: 99f20d97bce2cc14da37622b25c2490e, type: 3}
+  - albumName: VIETNAMSONGS
+    songList:
+    - songName: "G\u1EB7p l\u1EA1i n\u0103m ta 60"
+      author: None
+      songClip: {fileID: 8300000, guid: 7bbaa47f9d150fc4592d93e35a1b7cbd, type: 3}
+    - songName: "Kh\xF3a Ly Bi\u1EC7t"
+      author: None
+      songClip: {fileID: 8300000, guid: 35a024ddb9d59df429a4616bf386b5a0, type: 3}
+    - songName: "Tr\xE1i \u0111\u1EA5t \xF4m M\u1EB7t tr\u1EDDi"
+      author: None
+      songClip: {fileID: 8300000, guid: f51200ef86fc3af47b7d769924e03d3a, type: 3}
+    - songName: None
+      author: None
+      songClip: {fileID: 8300000, guid: 2c3372adb91901345a9b3e6f6673e0b7, type: 3}
+    - songName: 
+      author: 
+      songClip: {fileID: 8300000, guid: 99f20d97bce2cc14da37622b25c2490e, type: 3}
+    - songName: 
+      author: 
+      songClip: {fileID: 0}
+    - songName: 
+      author: 
+      songClip: {fileID: 0}
+  - albumName: T
+    songList:
+    - songName: T
+      author: 
+      songClip: {fileID: 0}
